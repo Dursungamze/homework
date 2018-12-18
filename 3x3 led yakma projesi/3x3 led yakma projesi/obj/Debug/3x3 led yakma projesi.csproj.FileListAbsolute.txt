@@ -1,0 +1,38 @@
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\3x3 led yakma projesi.exe.config
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\3x3 led yakma projesi.exe
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\3x3 led yakma projesi.pdb
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\_3x3_led_yakma_projesi.Form1.resources
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\_3x3_led_yakma_projesi.Properties.Resources.resources
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csproj.CopyComplete
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.exe
+C:\Users\Recep AKBULUT\source\repos\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.pdb
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\3x3 led yakma projesi.exe.config
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\3x3 led yakma projesi.exe
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\3x3 led yakma projesi.pdb
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Math.dll
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.xml
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Imaging.xml
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Video.xml
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\bin\Debug\AForge.Math.xml
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\_3x3_led_yakma_projesi.Form1.resources
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\_3x3_led_yakma_projesi.Properties.Resources.resources
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.csproj.CopyComplete
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.exe
+C:\Users\Enes\Desktop\gamze\3x3 led yakma projesi\3x3 led yakma projesi\obj\Debug\3x3 led yakma projesi.pdb
